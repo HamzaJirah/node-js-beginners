@@ -1,8 +1,10 @@
 const http = require ('http');
 const fs = require ('fs');
 
-fs.readFile('index.html', () => {
-  
+fs.readFile('index.html', (err, html) => {
+  if(err){
+    throw err;
+  }
 })
 
 // create host
