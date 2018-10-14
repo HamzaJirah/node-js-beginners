@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "simple node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaJirah/node-js-beginners.git"
+  },
+  "author": "Hamza Jirah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamzaJirah/node-js-beginners/issues"
+  },
+  "homepage": "https://github.com/HamzaJirah/node-js-beginners#readme"
+}
